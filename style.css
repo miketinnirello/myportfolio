@@ -1,0 +1,28 @@
+/* Header */
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+
+#darkModeBtn {
+    position: absolute;
+    right: 0;
+    margin-right: 8px;
+}
+
+#siteName {
+    text-align: center;
+}
+
+#siteName h1 {
+    display: inline-block;
+}
+
+
+/* Footer */
+
+#copyright {
+    text-align: center;
+}
